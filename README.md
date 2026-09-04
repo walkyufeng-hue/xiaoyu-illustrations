@@ -6,7 +6,7 @@
 
 ---
 
-![小玉淡彩手绘正文配图示例](examples/images/02-design-vs-prd-thinking.png)
+![小玉淡彩手绘正文配图示例](assets/cover.png)
 
 ---
 
