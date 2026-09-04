@@ -74,9 +74,9 @@
 
 ## 反复刻规则
 
-不要默认打开或复刻 `assets/examples/`。这些旧案例以黑白线稿风格绘制，现在只用于构图、留白和标注密度的参考；色彩和人物上色请以 `references/style-dna.md` 和 `assets/xiaoyu-reference.png` 为准。
+不要默认打开或复刻 `assets/examples/`。这些示例只用于构图、留白和标注密度的参考；色彩和人物上色请以 `references/style-dna.md` 和 `assets/xiaoyu-reference.png` 为准。
 
-除非用户明确说“照这张 / 复刻这个构图 / 用这个案例改”，否则不要直接复用这些旧构图：
+除非用户明确说“照这张 / 复刻这个构图 / 用这个案例改”，否则不要直接复用这些示例构图：
 
 - 传送带两个断点
 - 小玉在内容机器里拉判断杆
