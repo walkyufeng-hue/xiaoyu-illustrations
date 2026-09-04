@@ -5,7 +5,7 @@
 ## 只做配图规划
 
 ```text
-Use $ian-xiaohei-illustrations 先不要生图。
+Use $xiaoyu-illustrations 先不要生图。
 请分析下面这篇文章哪里值得配图，输出 5 张左右的 shot list。
 每张图写清楚：
 - 放在哪个段落后

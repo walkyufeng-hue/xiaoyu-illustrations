@@ -74,39 +74,29 @@ Xiaoyu Illustrations 是一个 Codex Skill，用来指导 AI Agent 为中文文�
 
 ## 示例效果
 
-### 两个断点
+下面 5 张配图来自同一篇 PRD 反思长文（《PRD 越写越长，是产品经理在偷懒》），用本 skill 一次性生成。
 
-![两个断点](examples/images/01-two-breakpoints.png)
+### PRD 写得满但说不清
 
-### 按目的分拣
+![PRD 写得满但说不清](examples/images/01-prd-overfull-not-clear.png)
 
-![按目的分拣](examples/images/02-sort-by-purpose.png)
+### 设计与 PRD 思考方式的差异
 
-### 一鱼多吃
+![设计与 PRD 思考方式的差异](examples/images/02-design-vs-prd-thinking.png)
 
-![一鱼多吃](examples/images/03-one-fish-many-uses.png)
+### MVP 被塞太满
 
-### 承接路径
+![MVP 被塞太满](examples/images/03-mvp-overloaded.png)
 
-![承接路径](examples/images/04-handoff-path.png)
+### 三个桶的取舍：必须做 / 以后加 / 暂时不要
 
-### 信息井
+![三个桶的取舍](examples/images/04-three-buckets.png)
 
-![信息井](examples/images/05-information-well.png)
+### 靠演示把 PRD 砍下来
 
-### 想法压机
+![靠演示把 PRD 砍下来](examples/images/05-prd-trimmed-by-demo.png)
 
-![想法压机](examples/images/06-idea-press.png)
-
-### 内容发酵
-
-![内容发酵](examples/images/07-content-fermentation.png)
-
-### 信任桥
-
-![信任桥](examples/images/08-trust-bridge.png)
-
-这些图片是风格校准样例，不是构图模板。使用时应该从当前文章重新发明隐喻，不要照抄旧案例的物件和构图。
+这些图片是风格校准样例，不是构图模板。使用时应该从当前文章重新发明隐喻，不要照抄这张样例的物件和构图。
 
 ---
 
@@ -196,9 +186,11 @@ Use $xiaoyu-illustrations 帮我编辑这张图，去掉左上角的"流程图"�
 ├── LICENSE
 ├── examples/
 │   ├── images/
-│   │   ├── 01-two-breakpoints.png
-│   │   ├── 02-sort-by-purpose.png
-│   │   └── ...
+│   │   ├── 01-prd-overfull-not-clear.png
+│   │   ├── 02-design-vs-prd-thinking.png
+│   │   ├── 03-mvp-overloaded.png
+│   │   ├── 04-three-buckets.png
+│   │   └── 05-prd-trimmed-by-demo.png
 │   └── prompts.md
 └── xiaoyu-illustrations/
     ├── SKILL.md
